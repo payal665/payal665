@@ -1,5 +1,7 @@
 <div align="center">
-![Capsule Render](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=AI/ML%20Engineer&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
+![AI/ML Engineer](https://capsule-render.vercel.app/api?type=waving&color=667eea&height=200&section=header&text=AI%2FML%20Engineer&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
+
 </div>
 
 <div align="center">
